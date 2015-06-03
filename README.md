@@ -41,7 +41,7 @@ Development is sponsored by [Wargaming.net](http://wargaming.net).
 Installation
 ------------
 
-JsQuery is PostgreSQL extension which requires PostgreSQL 9.4 or higher.
+JsQuery is a PostgreSQL extension which requires PostgreSQL 9.4 or higher.
 Before build and install you should ensure following:
     
  * PostgreSQL version is 9.4 or higher.
@@ -49,7 +49,7 @@ Before build and install you should ensure following:
    PostgreSQL from source.
  * You have flex and bison installed on your system. JsQuery was tested on
    flex 2.5.37-2.5.39, bison 2.7.12.
- * Your PATH variable is configured so that pg\_config command available.
+ * Your PATH variable is configured so that pg\_config command is available.
     
 Typical installation procedure may look like this:
     
